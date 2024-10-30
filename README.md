@@ -18,6 +18,7 @@ Features
 ---------
 * Product Management: Add, update, retrieve, and delete products.
 * Image Handling: Upload and update product images.
+* Search products with name or type.
 * User-Friendly Interface: React-based front end for intuitive navigation.
 * Error Handling: Comprehensive error management to enhance usability.
 Tech Stack
