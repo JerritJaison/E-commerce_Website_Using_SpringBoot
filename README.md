@@ -51,6 +51,9 @@ Backend Setup
 Data base setup
 --------------
 spring.datasource.url=jdbc:oracle:thin:@localhost:1521:orcl
+
 spring.datasource.username=your_username
+
 spring.datasource.password=your_password
+
 spring.jpa.hibernate.ddl-auto=update
