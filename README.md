@@ -45,6 +45,8 @@ Prerequisites
 * Java 17 or later
 * Node.js and npm (for React frontend)
 * Oracle Database 21c (you can use any database)
+
+
 Backend Setup
 Data base setup
 --------------
